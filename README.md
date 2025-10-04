@@ -1,6 +1,3 @@
-# Customer Support Zone - React Q&A
-
-## React Fundamentals - Questions and Answers
 
 ### 1. What is JSX, and why is it used?
 
